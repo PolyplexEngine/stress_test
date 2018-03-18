@@ -1,0 +1,13 @@
+{
+	"name": "stress_test",
+	"authors": [
+		"Clipsey"
+	],
+	"dependencies": {
+		"pp": "~master",
+		"ppc": "~master"
+	},
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2018, Clipsey",
+	"license": "MIT"
+}

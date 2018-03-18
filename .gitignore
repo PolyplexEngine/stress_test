@@ -1,24 +1,17 @@
-# Compiled Object files
-*.o
-*.obj
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Compiled Static libraries
-*.a
-*.lib
-
-# Executables
-*.exe
-
-# DUB
 .dub
 docs.json
 __dummy.html
 docs/
-
-# Code coverage
+stress_test.so
+stress_test.dylib
+stress_test.dll
+stress_test.a
+stress_test.lib
+stress_test-test-*
+stress_test
+*.exe
+*.o
+*.obj
 *.lst
+
+libs/
